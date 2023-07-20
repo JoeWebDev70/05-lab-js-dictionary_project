@@ -6,13 +6,10 @@ In the <a href="https://github.com/JoeWebDev70/05-lab-js-dictionary">readme</a> 
 
 ## Project description
 
-- New modeling Figma
+- Modeling Figma
 - webpack + optimisation modules
 - Sass
 - Image optimisation
-    - webp format
-    - use json for galery
-    - use spirite for logo
 <br>
 
 ## Figma modeling
