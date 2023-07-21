@@ -3,6 +3,7 @@
 This project is an exercise for learning done during the formation with onlineformapro to become a web Developer.
 
 In the <a href="https://github.com/JoeWebDev70/05-lab-js-dictionary">readme</a> you could find instructions on how to make it.
+<br>
 
 ## Project description
 
@@ -10,6 +11,7 @@ In the <a href="https://github.com/JoeWebDev70/05-lab-js-dictionary">readme</a> 
 - webpack + optimisation modules
 - Sass
 - Image optimisation
+- Hosting on Vercel
 <br>
 
 ## Figma modeling
