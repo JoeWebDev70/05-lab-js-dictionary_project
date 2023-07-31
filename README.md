@@ -19,7 +19,7 @@ In the <a href="https://github.com/JoeWebDev70/05-lab-js-dictionary">readme</a> 
 Access to the <a href="https://www.figma.com/file/LtEbd6eBFJCwCmUeOtRQaj/05-lab-js-dictionary?type=design&node-id=0%3A1&mode=design&t=GZv7o9RMpYJ3DT30-1">figma</a> file.
 
 ### Download the figma file
-<a href="https://github.com/JoeWebDev70/05-lab-js-dictionary_project/blob/main/figma/05-lab-js-dictionary.fig">05-lab-js-dictionary.fig</a>
+<a href="./figma/05-lab-js-dictionary.fig">05-lab-js-dictionary.fig</a>
 <br>
 
 ### Graphic identity
